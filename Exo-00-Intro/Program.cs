@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine("Bonjour, à qui ai-je l'honneur?");
+            Console.WriteLine("Bonjour, à qui ai-je l'honneur ?");
             string? username = Console.ReadLine();
             Console.Clear();
             //Console.Write(username);

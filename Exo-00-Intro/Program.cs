@@ -19,9 +19,7 @@
             Console.WriteLine("Ho! Vous nous quittez déjà!");
             //Console.Write("Au revoir, ");
             //Console.WriteLine(username);
-
             //Console.WriteLine("Au revoir, {0}", username);
-
             //Console.WriteLine("Au revoir, " + username);
 
             Console.WriteLine($"Au revoir, {username}");        

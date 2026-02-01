@@ -12,7 +12,6 @@
             //Console.WriteLine(", c'est très joli nom!");
 
             //Console.WriteLine("{0}, c'est très joli nom!", username);
-            
             //Console.WriteLine($"{username}, c'est très joli nom!");
 
             Console.WriteLine(username + ", c'est très joli nom!");
